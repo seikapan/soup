@@ -1,1 +1,2 @@
 # soup
+- bw stats bot
